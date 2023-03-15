@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🎓 A passionate software engineering student and an Android Developer<br>💡 Solving real world problems with innovative solutions using AI/ML<br>🤝 Looking to collaborate on open-source projects<br>✉️ Contact me: fargadeashish@gmail.com<br>✍
+🎓 A passionate software engineering student and an Android Developer<br>💡 Solving real world problems with innovative solutions using AI/ML<br>🤝 Looking to collaborate on open-source projects<br>✉️ Contact me at: fargadeashish@gmail.com
 
 
 ## 🌐 Socials:
