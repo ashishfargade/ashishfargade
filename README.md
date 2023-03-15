@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👨‍🎓 A passionate software engineering student and an Android Developer<br>💡 Solving real world problems with innovative solutions<br>🤝 Looking to collaborate on open-source projects<br>✉️ Contact me: fargadeashish@gmail.com
+🎓 A passionate software engineering student and an Android Developer<br>💡 Solving real world problems with innovative solutions<br>🤝 Looking to collaborate on open-source projects<br>✉️ Contact me: fargadeashish@gmail.com
 
 
 ## 🌐 Socials:
@@ -16,11 +16,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishfargade&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashishfargade&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ashishfargade&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashishfargade&icon=0&color=0)](https://visitcount.itsvg.in)
-
