@@ -1,5 +1,8 @@
+##Hey, Welcome to my GitHub profile 🚀<br>
+
+
 # 💫 About Me:
-Hey, Welcome to my GitHub profile 🚀<br>👨‍🎓 I'm a passionate software engineering student and Android Developer<br>💡 Solving real world problems with innovative solutions<br>🤝 Looking to collaborate on open-source projects<br>✉️ Contact me: fargadeashish@gmail.com
+👨‍🎓 A passionate software engineering student and an Android Developer<br>💡 Solving real world problems with innovative solutions<br>🤝 Looking to collaborate on open-source projects<br>✉️ Contact me: fargadeashish@gmail.com
 
 
 ## 🌐 Socials:
