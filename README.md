@@ -21,7 +21,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashishfargade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 A Dev Meme
-![alt text]([https://www.facebook.com/LinuxMemes/](https://drive.google.com/file/d/1tyYv4zfhkLem6TpEsX3J5NoAhkNf5SFh/view?usp=sharing))
+!<a href="https://drive.google.com/file/d/1tyYv4zfhkLem6TpEsX3J5NoAhkNf5SFh/view?usp=sharing" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://drive.google.com/file/d/1tyYv4zfhkLem6TpEsX3J5NoAhkNf5SFh/view?usp=sharing)" height="100" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashishfargade&icon=0&color=0)](https://visitcount.itsvg.in)
