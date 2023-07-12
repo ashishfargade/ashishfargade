@@ -1,5 +1,7 @@
+# Hey, Welcome to my GitHub Profile 👋
+
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🤝 I’m looking to collaborate on open-source projects<br>💡 Solving real world problems with innovative solutions using AI/ML<br>💬 Ask me about Android(Kotlin) and Flutter<br>✉️ Contact me at: fargadeashish@gmail.com
+🔭 I’m currently working on Flutter<br>🤝 I’m looking to collaborate on Open-source projects<br>💡 Solving real world problems with innovative solutions using AI/ML<br>💬 Ask me about Android(Kotlin) and Flutter<br>✉️ Contact me at: fargadeashish@gmail.com
 
 
 ## 🌐 Socials:
