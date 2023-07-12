@@ -22,7 +22,8 @@
 
 
 ### 😂 A Dev Meme
-![linuxmeme](https://github.com/ashishfargade/ashishfargade/assets/97624840/ec16f693-ad13-4616-a470-695ef0cac3e5)
+!![linuxmeme](https://github.com/ashishfargade/ashishfargade/assets/97624840/55fcb7fd-680f-4c7b-9fb1-6219698f2db7)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashishfargade&icon=0&color=0)](https://visitcount.itsvg.in)
