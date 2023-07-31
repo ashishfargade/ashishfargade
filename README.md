@@ -26,7 +26,7 @@
 ---
 
 ### 😂 A Dev Meme
-![y4dget3xjpeb1](https://github.com/ashishfargade/ashishfargade/assets/97624840/d81263d4-09b2-4070-b719-52d9ea669f2e)
+![3s8yzs](https://github.com/ashishfargade/ashishfargade/assets/97624840/3d5a7fdb-9205-4b9c-80ad-07a14433e601)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashishfargade&icon=0&color=0)](https://visitcount.itsvg.in)
