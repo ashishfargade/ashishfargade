@@ -24,12 +24,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashishfargade&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashishfargade&icon=0&color=6)](https://visitcount.itsvg.in)
-
 
 ### 😂 A Dev Meme
-!![linuxmeme](https://github.com/ashishfargade/ashishfargade/assets/97624840/55fcb7fd-680f-4c7b-9fb1-6219698f2db7)
-
+![linuxmeme]![y4dget3xjpeb1](https://github.com/ashishfargade/ashishfargade/assets/97624840/d81263d4-09b2-4070-b719-52d9ea669f2e)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashishfargade&icon=0&color=0)](https://visitcount.itsvg.in)
