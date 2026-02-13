@@ -1,7 +1,7 @@
 # Hey, Welcome to my GitHub Profile 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Cybersecurity Analyst Roadmap @CISCO NETWORKING ACADEMY<br>🤝 Looking to collaborate on open-source projects<br>💡 Solving real world problems with innovative solutions using AI/ML<br>💬 Ask me anything about React JS🕸 <br> Contact Me: https://ashishfargade.vercel.app/
+👾 Currently working on PowerShell and SQL Automations <br> 🤝 Looking to collaborate on open-source projects<br>💡 Solving real world problems with innovative solutions using AI/ML<br>💬 Ask me anything about ReactJS, ExpressJS, NodeJS 🕸 <br> Contact Me: https://ashishfargade.vercel.app/
 
 
 ## 🌐 Socials:
